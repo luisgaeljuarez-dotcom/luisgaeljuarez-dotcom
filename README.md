@@ -8,17 +8,21 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:0052CC&height=220&section=header&text=Luis%20Gael%20Juárez%20García&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Construyo+soluciones+tecnológicas+desde+cero+🚀;Automatizo+procesos+%7C+Resuelvo+problemas+complejos+🧩;De+la+idea+al+deploy%2C+sin+límites+⚡" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Construyo+soluciones+tecnológicas+desde+cero+🚀;Automatizo+procesos+%7C+Resuelvo+problemas+complejos+🧩;De+la+idea+al+deploy%2C+sin+límites+⚡" alt="" />
 
 <br/>
 
 <!-- PROFILE BADGES -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-luisgaeljuarez.com-0052CC?style=for-the-badge&logoColor=white)](https://luisgaeljuarez.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Gael_Juárez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-gael-juárez)
-[![GitHub](https://img.shields.io/badge/GitHub-luisgaeljuarez--dotcom-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisgaeljuarez-dotcom)
-[![Email](https://img.shields.io/badge/Email-luisgaeljuarez@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisgaeljuarez@gmail.com)
+<a href="https://luisg-dev.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-0052CC?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/luis-gael-juárez">
+  <img src="https://img.shields.io/badge/LinkedIn-Luis_Gael_Juárez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/luisgaeljuarez-dotcom">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<img src="https://img.shields.io/badge/Email-luisgaeljuarez@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 
 </div>
 
@@ -28,33 +32,22 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sobre Mí
 
-```yaml
-name: Luis Gael Juárez García
-location: Torreón, Coahuila, México 🇲🇽
-education: Ingeniería en Desarrollo de Software | Universidad Tecmilenio
-gpa: 95.83 / 100
-languages: [Español (Nativo), English (B2)]
-status: Disponible para oportunidades — Tiempo Completo o Prácticas
+> **Estudiante de Ingeniería en Desarrollo de Software** apasionado por construir soluciones tecnológicas desde cero y automatizar procesos. Disfruto resolver rompecabezas lógicos complejos y optimizar sistemas. Busco aportar mi pensamiento analítico e innovación en proyectos de software que generen valor real desde una etapa temprana de mi formación.
 
-about_me: >
-  Estudiante de Ingeniería en Desarrollo de Software apasionado por construir
-  soluciones tecnológicas desde cero y automatizar procesos. Disfruto resolver
-  rompecabezas lógicos complejos y optimizar sistemas. Busco aportar mi
-  pensamiento analítico e innovación en proyectos de software que generen
-  valor real desde una etapa temprana de mi formación.
+<br/>
 
-interests:
-  - Desarrollo Enterprise & Backend Architecture
-  - Integración de Inteligencia Artificial
-  - Cloud Computing & Automatización
-  - Startups & EdTech
+- 📍 **Ubicación:** Torreón, Coahuila, México 🇲🇽
+- 🎓 **Educación:** Universidad Tecmilenio | **GPA:** 95.83 / 100
+- 🗣️ **Idiomas:** Español (Nativo) | Inglés (B2)
+- 💼 **Estado:** Disponible para oportunidades — Tiempo Completo o Prácticas
 
-current_focus:
-  - 🔭 Cofundador de Fincity — Startup EdTech de inclusión financiera
-  - 🌱 Profundizando en AWS, Arquitectura Backend y AI Integration
-  - 💡 Explorando CI/CD pipelines y Clean Architecture
-  - 🎯 Meta 2026: Contribuir a proyectos Open Source de alto impacto
-```
+### 🎯 Áreas de Interés & Enfoque Actual
+- 🔭 **Cofundador de Fincity:** Startup EdTech de inclusión financiera
+- ☁️ **Cloud & backend:** Profundizando en AWS, Arquitectura Backend y AI Integration
+- 💡 **Arquitectura:** Explorando CI/CD pipelines y Clean Architecture
+- 🚀 **Metas:** Contribuir a proyectos Open Source de alto impacto
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                          TECH STACK                                   -->
@@ -114,10 +107,8 @@ current_focus:
 <td width="50%">
 
 ### 🎮 Fincity — EdTech Startup
-<a href="#">
-  <img src="https://img.shields.io/badge/Cofundador-Enactus-FF6B35?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Activo-00C853?style=flat-square" />
-</a>
+<img src="https://img.shields.io/badge/Cofundador-Enactus-FF6B35?style=flat-square" alt="Enactus" />
+<img src="https://img.shields.io/badge/Status-Activo-00C853?style=flat-square" alt="Status" />
 
 Simulador gamificado 2D para inclusión financiera. MVP validado con usuarios reales con métricas óptimas de adopción y retención.
 
@@ -133,17 +124,14 @@ Simulador gamificado 2D para inclusión financiera. MVP validado con usuarios re
 <td width="50%">
 
 ### 🤖 Helpy — Account Intelligence
-<a href="#">
-  <img src="https://img.shields.io/badge/HPE-Innovation_MeetUp-0096D6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Phase-Final-FFD600?style=flat-square" />
-</a>
+<img src="https://img.shields.io/badge/HPE-Innovation_MeetUp-0096D6?style=flat-square" alt="HPE" />
+<img src="https://img.shields.io/badge/Phase-Final-FFD600?style=flat-square" alt="Phase" />
 
 Plataforma B2B de Account Intelligence con motores de IA para automatizar prospección comercial en tiempo real.
 
 **🏆 Logros:**
 - 🎯 Fase final Innovation MeetUp
 - 🏢 Validado ante ejecutivos del sector tech
-- ⚡ Reducción drástica en tiempos de calificación
 
 `Python` `AI/ML` `B2B` `Automation`
 
@@ -154,10 +142,8 @@ Plataforma B2B de Account Intelligence con motores de IA para automatizar prospe
 <td width="50%">
 
 ### 📚 [BiblioCore](https://github.com/luisgaeljuarez-dotcom/BiblioCore)
-<a href="https://github.com/luisgaeljuarez-dotcom/BiblioCore">
-  <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square&logo=openjdk" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
-</a>
+<img src="https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square&logo=openjdk" alt="Java" />
+<img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
 
 Sistema automatizado de gestión bibliotecaria con Clean Architecture y principios POO avanzados. Alta cohesión y bajo acoplamiento.
 
@@ -172,10 +158,8 @@ Sistema automatizado de gestión bibliotecaria con Clean Architecture y principi
 <td width="50%">
 
 ### 🌐 [Mi Portafolio](https://github.com/luisgaeljuarez-dotcom/mi-portafolio)
-<a href="https://github.com/luisgaeljuarez-dotcom/mi-portafolio">
-  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/Status-Live-00C853?style=flat-square" />
-</a>
+<img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Status-Live-00C853?style=flat-square" alt="Status" />
 
 Portafolio personal profesional construido con tecnologías modernas. Diseño responsivo y experiencia de usuario optimizada.
 
@@ -210,18 +194,16 @@ Portafolio personal profesional construido con tecnologías modernas. Diseño re
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luisgaeljuarez-dotcom&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF)](https://github.com/luisgaeljuarez-dotcom)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luisgaeljuarez-dotcom&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Activity Graph" />
 
 </div>
+
+### 🏆 Mis Trofeos de GitHub
 
 <!-- GITHUB TROPHIES -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=luisgaeljuarez-dotcom&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=3&title=MultipleLanguage,LongTimeUser,NewUser,Commits,Followers,Repositories" alt="Luis Gael Trophies" />
-  </a>
+  <img src="https://github-trophies.vercel.app/?username=luisgaeljuarez-dotcom&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=3&title=MultipleLanguage,LongTimeUser,NewUser,Commits,Followers,Repositories" alt="Luis Gael Trophies" />
 </div>
-
-
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                        CERTIFICATIONS                                 -->
@@ -253,15 +235,14 @@ Portafolio personal profesional construido con tecnologías modernas. Diseño re
 
 <div align="center">
 
-```
-🧠 Pensamiento Analítico     ●●●●●●●●●○  90%
-🧩 Resolución de Problemas   ●●●●●●●●●○  90%
-🎤 Pitching de Alto Impacto   ●●●●●●●●○○  80%
-🤝 Trabajo en Equipo          ●●●●●●●●●○  90%
-🔄 Adaptabilidad              ●●●●●●●●●●  100%
-☁️ Cloud Computing            ●●●●●●●○○○  70%
-🤖 IA & Machine Learning      ●●●●●●○○○○  60%
-```
+![Pensamiento Analítico](https://img.shields.io/badge/🧠_Pensamiento_Analítico-0D1117?style=for-the-badge&logoColor=white)
+![Resolución de Problemas](https://img.shields.io/badge/🧩_Resolución_de_Problemas-0D1117?style=for-the-badge&logoColor=white)
+![Pitching de Alto Impacto](https://img.shields.io/badge/🎤_Pitching_de_Alto_Impacto-0D1117?style=for-the-badge&logoColor=white)
+
+![Trabajo en Equipo](https://img.shields.io/badge/🤝_Trabajo_en_Equipo-0D1117?style=for-the-badge&logoColor=white)
+![Adaptabilidad](https://img.shields.io/badge/🔄_Adaptabilidad-0D1117?style=for-the-badge&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/☁️_Cloud_Computing-0D1117?style=for-the-badge&logoColor=white)
+![IA & Machine Learning](https://img.shields.io/badge/🤖_IA_%26_Machine_Learning-0D1117?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -273,17 +254,17 @@ Portafolio personal profesional construido con tecnologías modernas. Diseño re
 
 <div align="center">
 
+<a href="https://luisg-dev.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-0052CC?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
 <a href="https://www.linkedin.com/in/luis-gael-juárez">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:luisgaeljuarez@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/luisgaeljuarez@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://github.com/luisgaeljuarez-dotcom">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://luisgaeljuarez.com">
-  <img src="https://img.shields.io/badge/-Portfolio-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
@@ -298,4 +279,3 @@ Portafolio personal profesional construido con tecnologías modernas. Diseño re
 
 <!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:0052CC&height=120&section=footer" width="100%"/>
-
