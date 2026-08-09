@@ -1,4 +1,4 @@
-<![CDATA[<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                    👋 WELCOME TO MY GITHUB PROFILE                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
@@ -300,4 +300,4 @@ Portafolio personal profesional construido con tecnologías modernas. Diseño re
 
 <!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:0052CC&height=120&section=footer" width="100%"/>
-]]>
+
