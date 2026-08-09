@@ -110,11 +110,11 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎮 Fincity — EdTech Startup
-<a href="https://github.com/luisgaeljuarez-dotcom"><img src="https://img.shields.io/badge/Cofundador-Enactus-FF6B35?style=flat-square" alt="" /></a>
-<a href="https://github.com/luisgaeljuarez-dotcom"><img src="https://img.shields.io/badge/Status-Activo-00C853?style=flat-square" alt="" /></a>
+<a href="https://github.com/luisgaeljuarez-dotcom"><img src="https://img.shields.io/badge/Cofundador-Enactus-FF6B35?style=flat-square" alt="Enactus" /></a>
+<a href="https://github.com/luisgaeljuarez-dotcom"><img src="https://img.shields.io/badge/Status-Proyecto_en_proceso...-FFB300?style=flat-square" alt="Proyecto en proceso" /></a>
 
 Simulador gamificado 2D para inclusión financiera. MVP validado con usuarios reales con métricas óptimas de adopción y retención.
 
@@ -127,17 +127,19 @@ Simulador gamificado 2D para inclusión financiera. MVP validado con usuarios re
 `Godot` `GDScript` `Game Design` `EdTech`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 Helpy — Account Intelligence
-<a href="https://github.com/luisgaeljuarez-dotcom"><img src="https://img.shields.io/badge/HPE-Innovation_MeetUp-0096D6?style=flat-square" alt="" /></a>
-<a href="https://github.com/luisgaeljuarez-dotcom"><img src="https://img.shields.io/badge/Phase-Final-FFD600?style=flat-square" alt="" /></a>
+<a href="https://github.com/luisgaeljuarez-dotcom"><img src="https://img.shields.io/badge/HPE-Innovation_MeetUp-0096D6?style=flat-square" alt="HPE" /></a>
+<a href="https://github.com/luisgaeljuarez-dotcom"><img src="https://img.shields.io/badge/Status-Proyecto_en_proceso...-FFB300?style=flat-square" alt="Proyecto en proceso" /></a>
 
 Plataforma B2B de Account Intelligence con motores de IA para automatizar prospección comercial en tiempo real.
 
 **🏆 Logros:**
 - 🎯 Fase final Innovation MeetUp
 - 🏢 Validado ante ejecutivos del sector tech
+- 🚀 Algoritmos de prospección en desarrollo
+- 📊 Integración preliminar de modelos de IA
 
 `Python` `AI/ML` `B2B` `Automation`
 
@@ -145,7 +147,7 @@ Plataforma B2B de Account Intelligence con motores de IA para automatizar prospe
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📚 [BiblioCore](https://github.com/luisgaeljuarez-dotcom/BiblioCore)
 <a href="https://github.com/luisgaeljuarez-dotcom/BiblioCore"><img src="https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square&logo=openjdk" alt="" /></a>
@@ -161,7 +163,7 @@ Sistema automatizado de gestión bibliotecaria con Clean Architecture y principi
 `Java` `OOP` `Clean Architecture` `SOLID`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 [Mi Portafolio](https://github.com/luisgaeljuarez-dotcom/mi-portafolio)
 <a href="https://github.com/luisgaeljuarez-dotcom/mi-portafolio"><img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript" alt="" /></a>
