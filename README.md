@@ -20,6 +20,9 @@
 <a href="https://luisg-dev.netlify.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-0052CC?style=for-the-badge&logoColor=white" alt="Portfolio" />
 </a>
+<a href="https://linktr.ee/luisgaeljg?utm_source=linktree_profile_share&ltsid=1c880270-d391-4a37-8fb2-5afcf7714000">
+  <img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+</a>
 <a href="https://www.linkedin.com/in/luis-gael-juárez">
   <img src="https://img.shields.io/badge/LinkedIn-Luis_Gael_Juárez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -112,7 +115,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Fincity — EdTech Startup
+### 🎮 [Fincity — EdTech Startup](https://linktr.ee/javalio?utm_source=linktree_profile_share&ltsid=4dd63fb0-cecf-45e3-b5c9-6eb11dc827f4)
 <a href="https://github.com/luisgaeljuarez-dotcom"><img src="https://img.shields.io/badge/Cofundador-Enactus-FF6B35?style=flat-square" alt="Enactus" /></a>
 <a href="https://github.com/luisgaeljuarez-dotcom"><img src="https://img.shields.io/badge/Status-Proyecto_en_proceso...-FFB300?style=flat-square" alt="Proyecto en proceso" /></a>
 
@@ -209,7 +212,7 @@ Portafolio personal profesional construido con tecnologías modernas. Diseño re
 <div align="center">
 
 <a href="https://github.com/luisgaeljuarez-dotcom">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisgaeljuarez-dotcom&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisgaeljuarez-dotcom&custom_title=Contribuciones%20en%20GitHub&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="" />
 </a>
 
 </div>
@@ -233,6 +236,10 @@ Portafolio personal profesional construido con tecnologías modernas. Diseño re
 
 | Categoría | Certificación | Emisor |
 |:---------:|:-------------:|:------:|
+| 💼 Job Sim | **Software Engineering Job Simulation** | Hewlett Packard Enterprise |
+| 💼 Job Sim | **Presales Job Simulation** | Hewlett Packard Enterprise |
+| 💼 Job Sim | **Digital Sales Job Simulation** | Hewlett Packard Enterprise |
+| 📋 Metodologías | **Scrum Fundamentals Certified (SFC)** | Hewlett Packard Enterprise |
 | ☁️ Cloud | **AWS Academy Graduate — Cloud Foundations** | Amazon Web Services |
 | 🐧 Linux | **Red Hat System Administration I (RH124)** | Red Hat |
 | 📊 Data | **R for Data Science** | IBM |
@@ -274,6 +281,9 @@ Portafolio personal profesional construido con tecnologías modernas. Diseño re
 
 <a href="https://luisg-dev.netlify.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-0052CC?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://linktr.ee/luisgaeljg?utm_source=linktree_profile_share&ltsid=1c880270-d391-4a37-8fb2-5afcf7714000">
+  <img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
 </a>
 <a href="https://www.linkedin.com/in/luis-gael-juárez">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
